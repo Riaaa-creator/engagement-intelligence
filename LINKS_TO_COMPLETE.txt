@@ -1,6 +1,0 @@
-PUBLIC DATASET PAGE: https://archive.ics.uci.edu/dataset/488/facebook%2Blive%2Bsellers%2Bin%2Bthailand
-DIRECT CSV: https://archive.ics.uci.edu/ml/machine-learning-databases/00488/Live.csv
-
-GITHUB REPOSITORY URL: Add after publishing the project to GitHub.
-LIVE STREAMLIT APP URL: Add after deploying the app.
-Do not submit made-up repository or deployment URLs.
