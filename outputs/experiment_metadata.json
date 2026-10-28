@@ -1,0 +1,29 @@
+{
+  "project": "Engagement Intelligence",
+  "dataset_file": "Facebook_Marketplace_data.csv",
+  "rows_original": 7050,
+  "rows_analyzed": 7050,
+  "features": {
+    "core_engagement": [
+      "num_reactions",
+      "num_comments",
+      "num_shares"
+    ],
+    "detailed_reaction_mix": [
+      "num_comments",
+      "num_shares",
+      "num_likes",
+      "num_loves",
+      "num_wows",
+      "num_hahas",
+      "num_sads",
+      "num_angrys"
+    ]
+  },
+  "final_algorithm": "K-Means",
+  "final_feature_set": "core_engagement",
+  "final_k": 2,
+  "random_state": 42,
+  "agglomerative_comparison_sample_size": 2500,
+  "notes": "Interpret cluster profiles with the report's stated limitations."
+}
