@@ -52,10 +52,8 @@ Open `Engagement_Intelligence.ipynb` in Jupyter or Google Colab, install depende
 4. Choose **Create app**, select your repository and branch, and set the main file path to `app.py`.
 5. Deploy. Streamlit will provide a public app URL.
 
-**GitHub repository URL:** Add the URL after creating/publishing the repository.  
-**Live dashboard URL:** Add the URL after successful deployment.
-
-Do not invent these URLs before the repository and app actually exist. Once available, place both links in this README and the final PDF report.
+**GitHub repository URL:** https://github.com/Riaaa-creator/engagement-intelligence/  
+**Live dashboard URL:** https://engagement-intelligence-pzretlsxzxg3mtgzhxw9wy.streamlit.app/
 
 ## Method overview
 
